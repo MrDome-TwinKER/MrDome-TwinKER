@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </picture>
   </a>
 
-  <a href="[https://www.facebook.com/Navapol innoi](https://www.facebook.com/navapol.innoi/)" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/Navapol innoi" target="_blank" rel="noreferrer">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
